@@ -1,0 +1,2 @@
+# Haters
+VandyHacks X competition
